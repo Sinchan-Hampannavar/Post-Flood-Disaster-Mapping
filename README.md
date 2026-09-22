@@ -1,4 +1,4 @@
-# Post-Disaster Flood Mapping using Sentinel-2 Imagery 🌊
+# Post-Disaster Flood Mapping using Sentinel-2 Imagery 
 
 A deep learning framework that detects and visualizes flood-affected regions from satellite imagery — combining **Attention U-Net** for water body segmentation with **SNUNet-CD** for change detection between pre-flood and post-flood images.
 
@@ -34,7 +34,7 @@ This project builds an end-to-end pipeline that:
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ### 1. Water Body Segmentation — Attention U-Net
 
@@ -83,7 +83,7 @@ Post-Flood Image      Attention U-Net
 
 ---
 
-## 📊 Results
+## Results
 
 ### Segmentation Performance
 
@@ -110,7 +110,7 @@ The **Attention U-Net** model outperformed standard **U-Net** and **FCN32s** bas
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 ### Source
 
@@ -129,7 +129,7 @@ The **Attention U-Net** model outperformed standard **U-Net** and **FCN32s** bas
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 ### Programming & Frameworks
 
@@ -155,7 +155,7 @@ The **Attention U-Net** model outperformed standard **U-Net** and **FCN32s** bas
 
 ---
 
-## 🎯 Applications
+##  Applications
 
 - Disaster Response Planning
 - Flood Damage Assessment
